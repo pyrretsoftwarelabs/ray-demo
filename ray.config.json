@@ -1,0 +1,8 @@
+{
+    "Pipeline" : [
+      {
+        "Tool" : "rayserve",
+        "Type" : "deploy"
+      }
+    ]
+  }
